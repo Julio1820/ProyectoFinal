@@ -12,6 +12,7 @@ recargos, y el precio final del seguro (recargos extra + precio base). Luego se 
 Escribir "Si" para seguir, o bine "Salir" para salir del programa.
 
 > **PARTES A TOMAR EN CUENTA**
+
 Para la edad, ya sea del asegurado o de su conyuge, hay recargos los cuales son un porcentaje del precio base que pueden subir o bajar dependiendo del rango en que se
 encuentren. Recargos fijos que se le sumarán al precio base son los de "Propiedades" y "Sueldo", los cuales se toman del 20% del sueldo base y del 5% del sueldo del asegurado
 en ese orden respectivamente. Las personas menores de edad no pueden aplicar para el seguro (Conyuges). 
