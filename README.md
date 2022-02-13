@@ -6,7 +6,9 @@ PROYECTO FINAL UNIDAD 4
 
 Se pregunta al usuario si desea realizar alguna cotización. En caso de que así lo desee, debe de escribir "Si" y de lo contrario se debe de escribir "No"
 para que posteriormente se cierre el programa. Al realizar alguna cotización, le solicita que escriba su nombre (Nombre y apellido). Luego debe de responder a cada pregunta que se le solicite (Cuantos años tiene, cuantas propiedades tiene, sueldo ordinario, está casado, edad de su conyuge, tiene hijos,
-cuantos hijos tiene). En caso de que su edad sea menor a 18, es decir sea menor de edad, le aparecerá un mensaje que dice que su edad no es valida. Lo mismo sucede si tiene conyuge y este no es mayor de edad. Con estos datos, el programa realiza el cálculo de los recargos dependiendo de las circunstancias del asegurado. AL final le aparece el total de recargos, y el precio final del seguro (recargos extra + precio base). Luego se le preguntará al usuario si desea seguir realizando cotizaciones; se le da dos opciones: 
+cuantos hijos tiene). 
+
+En caso de que su edad sea menor a 18, es decir sea menor de edad, le aparecerá un mensaje que dice que su edad no es valida. Lo mismo sucede si tiene conyuge y este no es mayor de edad. Con estos datos, el programa realiza el cálculo de los recargos dependiendo de las circunstancias del asegurado. AL final le aparece el total de recargos, y el precio final del seguro (recargos extra + precio base). Luego se le preguntará al usuario si desea seguir realizando cotizaciones; se le da dos opciones: 
 Escribir "Si" para seguir, o bien "Salir" para salir del programa.
 
 
