@@ -1,0 +1,20 @@
+		PROYECTO FINAL
+
+ALGORITMO DE PROCEDIMIENTO PARA COTIZACIONES 
+	DE LA EMPRESA DE SEGUROS "TK-U"
+
+1.  Solicitamos la edad del asegurado, si no es mayor de edad no aplica como asegurado.
+2.  Solicitamos la cantidad de propiedades del asegurado.
+3.  Solicitamos el sueldo del asegurado.
+4.  Preguntamos si está casado. Si está casado le preguntamos la edad de su conyuge.
+5.  Preguntamos si tiene hijos, si los tiene le preguntamos cuántos tiene.
+6.  Ahora calculamos el recargo por la edad del asegurado basado en el rango (18-24 = 10%, 25-49 = 20%, 50 en adelante = 30%) el cual
+    sería el precio base por el porcentaje del rango de edad.
+7.  Repetimos el paso 6 con la edad del conyuge, solamente si está casado, para calcular el recargo el cual sería la edad del conyuge
+    por el porcentaje que le corresponde según el rango de edad (18-24 = 10%, 25-49 = 20%, 50 en adelante = 30%) 
+8.  Calculamos el recargo por hijos según la cantidad, solamente si los tiene. Este recargo es del 20% por hijo, el cual sería cantidad 
+    de hijos por el 20%, por el precio base.
+9.  Calculamos el cargo por propiedades. Este recargo es del 35%, el cual sería la cantidad de propiedades por el 35%, por el precio base.
+10. Calculamos el recargo por el sueldo, sueldo del asegurado por el 5%.
+11. Sumamos el recago por edad del asegurado, conyuge, hijos, propiedades, y sueldo. El resultado será el total de recargos.
+12. Sumamos el total de recargos y el precio base. Este sería el precio final.

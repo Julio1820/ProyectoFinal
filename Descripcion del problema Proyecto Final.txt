@@ -1,0 +1,29 @@
+			PROYECTO FINAL
+
+DESCRIPCIÓN DEL PROBLEMA DEL PROGRAMA PARA COTIZACIONES DE 
+		LA EMPRESA DE SEGUROS "TK-U"
+
+La empresa solicita que se haga la cotización para sus clientes, los tendran recargos extra
+dependiendo de circunstancias que ameriten dichos recargos. El recargo extra de la edad del
+asegurado se basa en un rango de edad, el cual puede subir hasta el 30%. Entonces el porcentaje
+quedaría de la siguiente forma:
+
+1. Para las edades de 18 a 24 años: El recargo es del 10% por el precio base
+2. Para las edades de 25 a 49 años: El recargo es del 20% por el precio base
+3. Para las edades de 50 años en adelante: El recargo es del 30% por el precio base
+
+Esto mismo aplica para el conyuge, y en el caso de los hijos, las propiedades y el sueldo del
+asegurado, quedarían de la siguiente forma
+
+1. Por cada hijo: El recargo es de 20% por el precio base
+2. Por cada propiedad: El recargo es de 35% por el precio base
+3. Por la cantidad de sueldo: El recargo es de 5%
+
+El problema acá es saber cuánto va a ser el total de todos los recargos extra y cúal será el
+precio total del seguro (Recargos extra + precio base). Esto va a depender, como ya lo habíamos
+mencionado antes, de las circunstancias del asegurado. Por ejemplo, si el asegurado no tiene 
+hijos pero sí tiene esposa/o, se le cobrará un recargo extra dependiendo de la edad de su 
+esposa/o. Lo mismo sucede en caso de que tuviese hijos, o bien si tuviera ambos. Al final, esto
+aumentaría significativamente el precio total del seguro. Y aunque no tuviese esposa/o o hijos, 
+se le estaría cobrando cargos extra por sus propiedades y por lo que gana. Entonces, el precio del
+seguro en cualquiera de los casos, siempre va a ser más que el precio base (2,000) por los recargos.
