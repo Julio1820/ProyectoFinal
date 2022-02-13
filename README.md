@@ -22,4 +22,6 @@ encuentren. Recargos fijos que se le sumarán al precio base son los de "Propied
 * Se puede mostrar en pantalla todos los recargos desglosados, es decir, que se le especifique al cliente el por qué de todos los recargos extra.
 De esa manera el asegurado tendría una mejor idea de lo que conlleva el seguro.
 
-* Agregar la opción de que aunque tenga esposo/a o hijos, pueda decidir si desea cubrirlos a ellos o no con el serguro, y viceversa, que pueda cubrirlos a ellos solamente (esposo/a o hijos) y a él no. Esto para evitar tantos recargos y sea más accesible.
+* Agregar la opción de que aunque tenga esposo/a o hijos, pueda decidir si desea cubrirlos a ellos o no con el serguro, y viceversa, que pueda cubrirlos a ellos solamente (esposo/a o hijos) y a él no. Esto solamente si así lo desea el cliente.
+
+* Realizar un descuento por una cantidad determindad de hijos. Esto con la finalidad de que sea más atractivo para el asegurado y opte por obtener el paquete completo del seguro.
